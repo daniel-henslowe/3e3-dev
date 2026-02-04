@@ -102,12 +102,12 @@ export default function Home() {
             >
               View My Work
             </Link>
-            <Link
-              href="#contact"
+            <a
+              href="mailto:info@3e3.dev"
               className="px-6 py-3 border border-zinc-700 text-white font-medium rounded-lg hover:border-zinc-500 hover:bg-zinc-800/50 transition-colors"
             >
               Get in Touch
-            </Link>
+            </a>
           </motion.div>
         </motion.div>
         <motion.div
