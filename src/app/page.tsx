@@ -26,13 +26,6 @@ const skills = {
 
 const projects = [
   {
-    title: "Pixel Plumber",
-    description: "NES-style platformer game built with vanilla JavaScript and HTML5 Canvas. Features procedural levels, power-ups, and retro sound effects.",
-    tech: ["JavaScript", "HTML5 Canvas", "CSS"],
-    link: "https://daniel-henslowe.github.io/pixel-plumber/",
-    github: "https://github.com/daniel-henslowe/pixel-plumber",
-  },
-  {
     title: "PuppyLuv Paradise",
     description: "Dog daycare, training, and grooming website with beautiful responsive design and modern UI components.",
     tech: ["Next.js", "TypeScript", "Tailwind CSS"],
