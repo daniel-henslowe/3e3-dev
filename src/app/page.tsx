@@ -291,7 +291,7 @@ export default function Home() {
             </p>
             <div className="flex justify-center gap-4">
               <a
-                href="mailto:hello@3e3.dev"
+                href="mailto:info@3e3.dev"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-blue-500 text-white font-medium rounded-lg hover:bg-blue-600 transition-colors"
               >
                 <Mail className="w-5 h-5" />

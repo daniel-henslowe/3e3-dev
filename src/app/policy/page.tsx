@@ -138,10 +138,10 @@ export default function PrivacyPolicy() {
             <p className="text-zinc-300 leading-relaxed mt-4">
               To exercise any of these rights, please contact us at{" "}
               <a
-                href="mailto:hello@3e3.dev"
+                href="mailto:info@3e3.dev"
                 className="text-blue-400 hover:text-blue-300 underline"
               >
-                hello@3e3.dev
+                info@3e3.dev
               </a>.
             </p>
           </section>
@@ -170,10 +170,10 @@ export default function PrivacyPolicy() {
             <p className="text-zinc-300 leading-relaxed">
               If you have any questions about this Privacy Policy, please contact us at{" "}
               <a
-                href="mailto:hello@3e3.dev"
+                href="mailto:info@3e3.dev"
                 className="text-blue-400 hover:text-blue-300 underline"
               >
-                hello@3e3.dev
+                info@3e3.dev
               </a>.
             </p>
           </section>
