@@ -56,9 +56,9 @@ export default function Home() {
             <Link href="#about" className="text-zinc-400 hover:text-white transition-colors">
               About
             </Link>
-            <Link href="#contact" className="text-zinc-400 hover:text-white transition-colors">
+            <a href="mailto:info@3e3.dev" className="text-zinc-400 hover:text-white transition-colors">
               Contact
-            </Link>
+            </a>
           </div>
         </div>
       </nav>
