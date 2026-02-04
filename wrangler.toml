@@ -1,0 +1,12 @@
+name = "3e3"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+main = ".open-next/worker.js"
+
+routes = [
+  { pattern = "3e3.dev/*", zone_name = "3e3.dev" }
+]
+
+[assets]
+directory = ".open-next/assets"
+binding = "ASSETS"
