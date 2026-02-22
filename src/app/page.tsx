@@ -38,6 +38,12 @@ const projects = [
     tech: ["Swift", "SwiftUI", "iOS"],
     github: "https://github.com/daniel-henslowe/canadian-prime-ministers",
   },
+  {
+    title: "Weird Tales Reader",
+    description: "Interactive digital reader for the Weird Tales pulp magazine archive (1923-1993).",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+    github: "https://github.com/daniel-henslowe/weird-tales-reader",
+  },
 ]
 
 export default function Home() {
